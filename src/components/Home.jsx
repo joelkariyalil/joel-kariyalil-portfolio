@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
       <div className="container mx-auto px-10 flex flex-wrap">
-        <div className="w-full lg:w-1/2 lg:mt-20">
+        <div className="w-full lg:w-1/2 lg:mt-27">
           <h1 className="text-6xl font-thin tracking-light">Joel Thomas Chacko</h1>
           <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
             {TITLE}

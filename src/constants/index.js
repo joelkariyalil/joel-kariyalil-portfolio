@@ -13,9 +13,11 @@ import opensrcmod1 from "../assets/opensrc/opensrcmod-1.png"
 
 export const TITLE = "Software Developer | Researcher";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `An industrious computer science engineer and Gold Medalist with a zeal for innovation and 2 years of industry experience. Contributing to Open-Source, Optimizing Code, Poly-Rhythms is everything I do.
+Currently, I am working with Tally Solutions Pvt. Ltd. as a Test Operations Engineer -1.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `An industrious computer science engineer and Gold Medalist with a zeal for innovation and 2 years of industry experience. I have worked at renowned companies like Tally Solutions Pvt. Ltd., where I was honored with a Star of the Quarter nomination and Excellence Spot Award. In addition to my industry experience, I have contributed to academia by publishing several research papers in prestigious journals, including IEEE. I am continually seeking opportunities to learn, implement, and expand my horizons in the pursuit of optimal solutions to everyday problems. 
+Currently, I am working with Tally Solutions Pvt. Ltd. as a Test Operations Engineer -1.`;
 
 
 export const PROJECTS = [
