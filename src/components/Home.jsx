@@ -7,7 +7,7 @@ const Home = () => {
     <div className="border-b border-neutral-900 pb-4 lg:mb-35">
       <div className="container mx-auto px-10 flex flex-wrap">
         <div className="w-full lg:w-1/2 lg:mt-27">
-          <h1 className="text-6xl font-thin tracking-light">Joel Thomas Chacko</h1>
+          <h1 className="mb-10 text-6xl font-thin tracking-light">Joel Thomas Chacko</h1>
           <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
             {TITLE}
           </span>
@@ -28,7 +28,7 @@ const Home = () => {
               alt="Joel Kariyalil"
               className="rounded-md shadow-md"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/30 via-transparent to-transparent rounded-md"></div>
+            <div className="absolute inset-0 bg-gradient-to-t from-black/100 via-transparent to-transparent rounded-md"></div>
           </div>
         </div>
       </div>
