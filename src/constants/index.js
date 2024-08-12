@@ -13,11 +13,8 @@ import opensrcmod1 from "../assets/opensrc/opensrcmod-1.png"
 
 export const TITLE = "Software Developer | Researcher";
 
-export const HERO_CONTENT = `An industrious computer science engineer and Gold Medalist with a zeal for innovation and 2 years of industry experience. Contributing to Open-Source, Optimizing Code, Poly-Rhythms is everything I do.
-Currently, I am working with Tally Solutions Pvt. Ltd. as a Test Operations Engineer -1.`;
-
-export const ABOUT_TEXT = `An industrious computer science engineer and Gold Medalist with a zeal for innovation and 2 years of industry experience. I have worked at renowned companies like Tally Solutions Pvt. Ltd., where I was honored with a Star of the Quarter nomination and Excellence Spot Award. In addition to my industry experience, I have contributed to academia by publishing several research papers in prestigious journals, including IEEE. I am continually seeking opportunities to learn, implement, and expand my horizons in the pursuit of optimal solutions to everyday problems. 
-Currently, I am working with Tally Solutions Pvt. Ltd. as a Test Operations Engineer -1.`;
+export const HERO_CONTENT = `An Industrious Computer Science Engineer and Gold Medalist with a Zeal for Innovation hsving 2 years of industry experience. Contributing to Open-Source, Optimizing Code, Poly-Rhythms is everything I do.
+Currently, working with Tally Solutions Pvt. Ltd. as a Test Operations Engineer -1.`;
 
 
 export const PROJECTS = [
