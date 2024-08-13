@@ -1,6 +1,6 @@
 import React from 'react';
 import { TITLE, HERO_CONTENT } from '../constants';
-import profilePic from '../assets/file.png';
+import profilePic from '../assets/image1.png';
 
 const Home = () => {
   return (
